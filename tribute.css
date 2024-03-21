@@ -1,0 +1,46 @@
+#main{
+  background-color:rgb(250, 241, 241);
+  width:100%;
+}
+#title{
+  background-color:rgb(46, 46, 80);
+color:#fff;
+text-align:center;
+padding-bottom:0;
+margin-bottom:0;
+}
+.tag{
+  padding-top:0;
+  margin-top:0;
+  font-family:sans-serif;
+  text-align:center;
+  color:rgb(55, 45, 112);
+}
+#image{
+  max-width:100%;
+  margin:auto;
+  display:block;
+  justify-content:center;
+}
+#img-caption{
+  text-align:center;
+  color:#fff;
+}
+#img-div{
+  background-color:rgb(59, 48, 48);
+}
+#tribute-info h2{
+  text-align:center;
+}
+#quote{
+  font-family:cursive;
+  text-align:center;
+}
+footer{
+  background-color:rgb(24, 24, 51);
+  color:#fff;
+  text-align:center;
+}
+#tribute-link{
+  color:rgb(207, 75, 119);
+}
